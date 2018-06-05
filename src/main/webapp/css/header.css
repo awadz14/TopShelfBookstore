@@ -1,0 +1,44 @@
+
+header {
+    /*background-color: dodgerblue;*/
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+
+}
+
+#leftheader {
+    width: 150px;
+
+}
+
+#midheader {
+    width: 450px;
+
+}
+
+#cartCount{
+    position: absolute;
+    right: 110px;
+    top: 20px;
+    border: 10px dodgerblue;
+    background-color: dodgerblue;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    min-width: 1.5rem;
+    text-align: center;
+    color: white;
+    font-size: 12.5px;
+}
+
+#loginButton{
+    position: absolute;
+    top: 25px;
+    right: 250px;
+}
+
+#rightheader{
+    width: 150px;
+
+}
+
