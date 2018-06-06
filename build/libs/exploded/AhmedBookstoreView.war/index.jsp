@@ -27,16 +27,14 @@
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/homepage.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
 
 <body>
-<main>
-    <jsp:include page="WEB-INF/jsp/header.jsp"/>
-    <section>
-        This is the homepage.
-    </section>
-    <jsp:include page="WEB-INF/jsp/footer.jsp"/>
+<jsp:include page="WEB-INF/jsp/header.jsp"/>
+<main role="main">
 </main>
+<jsp:include page="WEB-INF/jsp/footer.jsp"/>
 </body>
 </html>

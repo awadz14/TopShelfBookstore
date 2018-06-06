@@ -6,6 +6,8 @@ body {
 }
 
 main {
-    background: white;
+    /*background: white;*/
+    background: url("../images/site/wooden-background.jpg") no-repeat center;
+    height: -webkit-fill-available;
 }
 
