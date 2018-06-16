@@ -49,8 +49,10 @@
         <article class="flexItem categoryItems">
             <ul class="flexContainer categoryItems">
                 <li class="flexItem categoryItem">
-                    <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
-                    <div>
+                    <div class="featured-item-image">
+                        <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
+                    </div>
+                    <div class="featured-item-info">
                         <h2 class="title">The Hobbit</h2>
                         <h3 class="author">by J. R. R. Tolkien</h3>
                         <h4 class="price">$8.99</h4>
@@ -63,8 +65,10 @@
                 </li>
 
                 <li class="flexItem categoryItem">
-                    <img src="${initParam.bookImages}harry-potter-and-the-sorcerers-stone.gif" alt="Harry Potter and the Sorcerer's Stone" width="122" height="187"/>
-                    <div>
+                    <div class="featured-item-image">
+                        <img src="${initParam.bookImages}harry-potter-and-the-sorcerers-stone.gif" alt="Harry Potter and the Sorcerer's Stone" width="122" height="187"/>
+                    </div>
+                    <div class="featured-item-info">
                         <h2 class="title">Harry Potter and the Sorcerer's Stone</h2>
                         <h3 class="author">by J. K. Rowling</h3>
                         <h4 class="price">$10.99</h4>
@@ -77,9 +81,11 @@
                 </li>
 
                 <li class="flexItem categoryItem">
-                    <img src="${initParam.bookImages}the_hunger_games.gif"
-                         alt="The Hunger Games" width="122" height="187"/>
-                    <div>
+                    <div class="featured-item-image">
+                        <img src="${initParam.bookImages}the_hunger_games.gif"
+                             alt="The Hunger Games" width="122" height="187"/>
+                    </div>
+                    <div class="featured-item-info">
                         <h2 class="title">Watership Down</h2>
                         <h3 class="author">by Suzanne Collins</h3>
                         <h4 class="price">$12.99</h4>
@@ -108,8 +114,11 @@
                 </li>
 
                 <li class="flexItem categoryItem">
-                    <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
-                    <div>
+                    <div class="featured-item-image">
+                        <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
+                    </div>
+
+                    <div class="featured-item-info">
                         <h2 class="title">Watership Down</h2>
                         <h3 class="author">by Author Name</h3>
                         <h4 class="price">$9.99</h4>
@@ -121,8 +130,10 @@
                 </li>
 
                 <li class="flexItem categoryItem">
-                    <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
-                    <div>
+                    <div class="featured-item-image">
+                        <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
+                    </div>
+                    <div class="featured-item-info">
                         <h2 class="title">Watership Down</h2>
                         <h3 class="author">by Author Name</h3>
                         <h4 class="price">$9.99</h4>
@@ -135,8 +146,10 @@
                 </li>
 
                 <li class="flexItem categoryItem">
-                    <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
-                    <div>
+                    <div class="featured-item-image">
+                        <img src="${initParam.bookImages}the-hobbit.gif" alt="The Hobbit" width="122" height="187"/>
+                    </div>
+                    <div class="featured-item-info">
                         <h2 class="title">Watership Down</h2>
                         <h3 class="author">by Author Name</h3>
                         <h4 class="price">$9.99</h4>

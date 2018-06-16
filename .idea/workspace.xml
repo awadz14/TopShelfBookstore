@@ -8,58 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4d56b8c7-6ed9-4ef9-be97-f251c56c1b19" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/AhmedBookstoreView.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/WEB-INF/jsp/footer.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/WEB-INF/jsp/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/AhmedBookstoreView.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/AhmedBookstoreView.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/category.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/css/category.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/css/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/css/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/css/homepage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/css/normalize-and-reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/books/the-hobbit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/empty.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/hardwood.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/down-carrot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/searchicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/icons/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/shelf1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/shelf2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/hardwood.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/logo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/shelf1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/shelf2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/topshelf-extend.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/topshelf.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/vintage-boards.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/site/wooden-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/vintage-boards.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/images/wooden-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/AhmedBookstoreView.war/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/footer.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/category.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/category.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/category.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/icons/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/site/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/images/site/cart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -81,8 +32,8 @@
       <file leaf-file-name="category.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/category.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="89" column="29" selection-end-line="155" />
+            <state relative-caret-position="361">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -436,8 +387,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/css/homepage.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/footer.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/category.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/category.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/category.jsp" />
       </list>
     </option>
   </component>
@@ -786,15 +737,16 @@
       <workItem from="1528940628146" duration="184000" />
       <workItem from="1528944067845" duration="37000" />
       <workItem from="1529129037102" duration="1680000" />
-      <workItem from="1529132711589" duration="251000" />
+      <workItem from="1529132711589" duration="897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55719000" />
+    <option name="totallyTimeSpent" value="56365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="107" y="23" width="1173" height="752" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
@@ -1049,8 +1001,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/category.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="89" column="29" selection-end-line="155" />
+        <state relative-caret-position="361">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
