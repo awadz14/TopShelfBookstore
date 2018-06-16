@@ -1,3 +1,41 @@
-section{
+#upperHome{
 
+}
+
+.suggestedBookList{
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.suggestedBookItems{
+    padding: 20px;
+}
+
+#welcomeMessage p, #ourMission p{
+    text-align: center;
+    color: mediumblue;
+    padding: 20px;
+    border: 2px solid #fcc000;
+    border-radius: 15px 50px 30px;
+    margin: 20px;
+
+}
+
+#bottomHome{
+    padding: 20px;
+    text-align: center;
+    color:mediumblue;
+}
+
+#bottomHome p {
+    background-color: dodgerblue;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+#suggestedBookList{
+    padding: 20px;
 }

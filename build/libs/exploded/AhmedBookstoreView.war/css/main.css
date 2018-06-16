@@ -3,11 +3,17 @@ body {
     color: black;
     font-size: 20px;
     margin: 20px;
+
 }
 
 main {
-    /*background: white;*/
-    background: url("../images/site/wooden-background.jpg") no-repeat center;
-    height: -webkit-fill-available;
+    background: white;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.flexContainer{
+    display: flex;
 }
 

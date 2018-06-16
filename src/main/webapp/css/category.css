@@ -1,0 +1,89 @@
+.flexContainer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flexItem.categoryNav {
+    flex: 0;
+    padding-right: 20px;
+}
+
+.flexItem.categoryItems{
+    flex: 1;
+    /*background: url("../images/site/wooden-background.jpg") no-repeat center;*/
+
+}
+
+.buttons.categoriesList{
+    text-align: center;
+
+}
+.buttons.categoriesList li {
+    margin-bottom: 20px;
+    border: 1px solid dodgerblue;
+    padding: 5px;
+    background: dodgerblue;
+    border-radius: 5px;
+    width: 150px !important;
+    cursor: pointer;
+}
+
+.buttons.categoriesList li a {
+    color: white;
+}
+
+.buttons.categoriesList li:hover{
+    background-color: red;
+}
+
+.buttons.categoriesList li.selected{
+    background-color: #fcc000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.buttons.categoriesList li.selected a{
+    color: mediumblue;
+}
+
+.flexContainer.categoryItems{
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: baseline;
+    padding: 10px;
+    margin: 10px;
+}
+
+.flexItem.categoryItem{
+    padding: 20px;
+    width:150px;
+    height: 300px;
+}
+
+.featured-item-image{
+    padding: 20px;
+
+}
+
+.featured-item-info{
+    width: 140px;
+    height: 100px;
+}
+
+h2.title{
+    font-size: 14px;
+    font-weight:bold;
+    color:mediumblue;
+
+}
+
+.author, .price{
+    font-size: 10px;
+    color:mediumblue;
+}
+
+li.read, li.addToCart{
+    padding-right: 20px;
+    padding-top: 20px;
+}
+

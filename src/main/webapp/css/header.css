@@ -1,32 +1,59 @@
 header {
-    /*background-color: dodgerblue;*/
     display: flex;
     justify-content: space-between;
-    height: 150px;
+    align-items: center;
+    height: 120px;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+}
+
+
+header > section{
 
 }
 
-#leftheader {
-    max-width: 150px;
 
+
+
+
+
+@font-face {
+    font-family: Strawberry Blossom;
+    src: url("../fonts/StrawberryBlossom.ttf");
 }
 
-#midheader {
-    max-width: 450px;
+#leftheader{
+    height: 110px !important;
+}
+
+#bookstoreName{
+    transform: translate(1%, -220%);
+    font-size: 36px;
+    font-family: Strawberry Blossom;
+    color: mediumblue;
+}
+
+
+#flexItem_logo{
+    height: 100px;
+    padding-top: 5px;
+}
+
+#midheader{
+
 }
 
 #searchForm{
     display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 300px !important;
 }
 
-.search {
-    width: 100%;
-    position: relative
-}
 
 .searchTerm {
     float: left;
-    width: 100%;
+    width: 300px;
     border: 3px solid dodgerblue;
     padding: 5px;
     height: 20px;
@@ -40,8 +67,6 @@ header {
 }
 
 .searchButton {
-    position: absolute;
-    right: -50px;
     width: 40px;
     height: 36px;
     border: 1px solid dodgerblue;
@@ -53,10 +78,16 @@ header {
     font-size: 20px;
 }
 
+.fa-search{
+    padding: 0px !important;
+}
+
 #cartCount{
-    position: absolute;
-    right: 10px;
-    top: 20px;
+    width: 20px;
+    height: 20px;
+    position: relative !important;
+    right: -40px;
+    top: -50px;
     border: 10px dodgerblue;
     background-color: dodgerblue;
     box-sizing: border-box;
@@ -67,13 +98,70 @@ header {
     font-size: 12.5px;
 }
 
-#loginButton{
-    position: absolute;
-    top: 25px;
-    right: 100px;
+#cartAndLogin {
+    padding-right: 30px;
+    padding-left: 30px;
 }
 
-#rightheader{
-    max-width: 150px;
+.navbar {
+    overflow: hidden !important;
+    background-color: dodgerblue !important;
+    width: 270px;
+    border-radius: 5px;
 }
 
+.navbar a {
+    float: left !important;
+    font-size: 16px !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 10px 16px !important;
+    text-decoration: none !important;
+}
+
+.dropdown {
+    float: left !important;
+    overflow: hidden !important;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px !important;
+    border: none !important;
+    outline: none !important;
+    color: white !important;
+    padding: 10px 16px !important;
+    background-color: inherit !important;
+    font-family: inherit !important;
+    margin: 0 !important;
+    cursor: pointer;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red !important;
+}
+
+.dropdown-content {
+    display: none !important;
+    position: absolute !important;
+    background-color: #f9f9f9 !important;
+    min-width: 160px !important;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2) !important;
+    z-index: 1 !important;
+}
+
+.dropdown-content a {
+    float: none !important;
+    color: black !important;
+    padding: 12px 16px !important;
+    text-decoration: none !important;
+    display: block !important;
+    text-align: left !important;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd !important;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block !important;
+}
